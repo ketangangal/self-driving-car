@@ -1,0 +1,4 @@
+opencv-python==4.6.0.66
+pandas==1.4.3
+RPi.GPIO==0.7.1
+tflit==0.1.2
